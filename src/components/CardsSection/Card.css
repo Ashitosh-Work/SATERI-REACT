@@ -1,0 +1,19 @@
+.card {
+    height: 90%;
+    width: 100%;
+    background: #2C2C2CB2;
+    padding: 5%;
+    border: 2px solid #C7FFA4;
+    border-radius: 16px;
+}
+
+.second_row {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+@media screen and (max-width : 992px) {
+    .second_row {
+        padding: 0%;
+    }
+}

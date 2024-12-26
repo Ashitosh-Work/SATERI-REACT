@@ -1,0 +1,16 @@
+.booking_section {
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: center;
+}
+
+.book_button {
+    color: #1F1F1F;
+    background: #FFFFFF;
+    border-radius: 3.72px;
+    width: Hug (207.58px)px;
+    height: Hug (35.88px)px;
+    padding: 7.44px 26.79px 7.44px 26.79px;
+    font-size: larger;
+    font-weight: bolder;
+}

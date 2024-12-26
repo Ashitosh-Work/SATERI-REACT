@@ -1,0 +1,17 @@
+.tab {
+    align-items: center;
+    border: 2px solid #C7FFA4;
+    border-radius: 16px;
+}
+
+.arrow {
+    height: 20%;
+    width: 20%;
+}
+
+@media screen and (max-width : 768px) {
+    .arrow {
+        height: 10%;
+        width: 10%;
+    }
+}

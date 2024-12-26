@@ -1,0 +1,9 @@
+.landing_page {
+    background: linear-gradient(180deg, #150000 20%, #282828 55%, #1B1B1B 100%);
+    font-family: Inria Sans;
+    color: white;
+}
+
+.last {
+    height: 1vh;
+}

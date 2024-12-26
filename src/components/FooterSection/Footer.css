@@ -1,0 +1,53 @@
+footer {
+    background: #181818B2;
+    border: 2px solid #7B7A7A;
+    border-radius: 7px;
+}
+
+footer div div h4 {
+    font-size: 44.49px;
+    font-weight: 400;
+    line-height: 53.34px;
+}
+
+form p {
+    font-size: larger;
+}
+
+.subscribe {
+    margin-right: 10%;
+}
+
+input {
+    background: #26262680;
+    border: 1px solid #6D6D6D;
+    border-radius: 14px;
+    width: 261px;
+    height: 32px;
+    padding-left: 10px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.submit_button {
+    width: Hug (259px)px;
+    height: Hug (27px)px;
+    padding: 3px 101px 3px 101px;
+    border-radius: 6px;
+    color: #1F1F1F;
+}
+
+.short {
+    border: 1px solid #FFFFFF;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #969393;
+    font-size: normal;
+}
+
+#big {
+    border: 1px solid #FFFFFF;
+}

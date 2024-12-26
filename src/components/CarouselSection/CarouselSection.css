@@ -1,0 +1,9 @@
+swiper-container {
+    width: 100%;
+}
+
+swiper-container {
+    --swiper-pagination-color: white;
+    --swiper-pagination-bullet-inactive-color: white;
+    --swiper-pagination-bullet-size: 10px;
+}
